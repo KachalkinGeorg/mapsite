@@ -1,0 +1,19 @@
+;
+; Version description file for plugin @@ Next Generation CMS
+;
+
+ID: mapsite
+Name: Создания карты сайта
+Version: 0.2
+Acts: ppages
+File: mapsite.php
+Config: config.php
+Install: install.php
+Deinstall: deinstall.php
+Type: plugin
+Description: Создание и обновление карты сайта для поисковиков
+Author: KachalkinGeorg
+Author_URI: 
+Icon: <i class='fa fa-sitemap fa-2x'></i>
+Title: Создания карты сайта
+Information: Позволяет создавать SiteMap для вашего сайта
